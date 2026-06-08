@@ -206,3 +206,5 @@ while True:
             update_player(football_list)
         case 4:
             delete_player(football_list)
+        case _:
+            print("lựa chọn không hợp lệ")
